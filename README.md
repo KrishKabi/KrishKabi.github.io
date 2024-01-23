@@ -8,4 +8,4 @@ Data Science / Analytics Projects
 * Tuned RandomForest models via Grid Search for optimal performance and conducted feature importance analysis for effective model refinement. Resulted in 209% increase in R-squared value for WaterUsage prediction.
 * Concluded by acknowledging the models' predictive capabilities, suggesting potential for enhanced precision with more data and advanced techniques.
 
-![](https://github.com/KrishKabi/KrishKabi.github.io/blob/main/Home_Utilities_Savings/Correlation%20Heatmap.png)
+![](/Home_Utilities_Savings/Correlation%20Heatmap.png)
