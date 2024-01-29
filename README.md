@@ -6,7 +6,7 @@ Data Science / Analytics Projects
 * Conducted data preprocessing, including handling missing values, converting lists of words to strings, and lemmatization using NLTK.
 * Utilized TF-IDF vectorization to convert the preprocessed text into numerical features, capturing the importance of words in the dataset.
 * Evaluated four machine learning models for sentiment analysis: Logistic Regression, Support Vector Machines (SVM), Gradient Boosting, and K-Nearest Neighbors (KNN).
-* Identified the best-performing model as Logistic Regression with an accuracy of 88.4%, using hyperparameters.
+* Identified the best-performing model as Logistic Regression with an accuracy of 84.8%, using hyperparameters.
 
 ![](/Instagram%20Sentiment%20Analysis/Sentiment%20Distribution%20of%20Instagram%20Comments.png)
 
