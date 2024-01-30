@@ -2,6 +2,9 @@
 Data Science / Analytics Projects
 
 ## [Project 1: Instagram Sentiment Analysis](https://github.com/KrishKabi/KrishKabi.github.io/tree/main/Instagram%20Sentiment%20Analysis)
+
+![](/Instagram%20Sentiment%20Analysis/Sentiment_Analysis_Photo.png)
+
 Embarked on a comprehensive sentiment analysis project leveraging a dataset comprising 474 rows of Instagram data. Focused on extracting valuable insights from comments and sentiments encapsulated within the "string_map_data.Comment.value" column.
 
 **Key Accomplishments**:
@@ -23,9 +26,10 @@ Python (Pandas, Matplotlib, Seaborn, Scikit-learn, NLTK)
 **Future Directions**:
 Continuously refine and expand the model, exploring deep learning architectures and ensemble methods for improved accuracy and broader applicability. This project reflects a commitment to leveraging data science techniques for meaningful insights into social media analytics.
 
-![](/Instagram%20Sentiment%20Analysis/Sentiment_Analysis_Photo.png)
-
 ## [Project 2: Home Utilities Savings](https://github.com/KrishKabi/KrishKabi.github.io/tree/main/Home_Utilities_Savings)
+
+![](/Home_Utilities_Savings/Correlation%20Heatmap.png)
+
 Led the comprehensive preprocessing and transformation of 18 months of home utilities data in SQL, laying the groundwork for subsequent in-depth analysis and future prediction in Python.
 
 **Key Accomplishments**:
@@ -42,5 +46,3 @@ SQL, Python (Pandas, Matplotlib, Seaborn, Scikit-learn)
 
 **Future Directions**:
 Acknowledged the models' predictive capabilities while suggesting potential for enhanced precision with more extensive data and advanced methodologies. Future work could focus on acquiring additional data and exploring advanced modeling techniques to further refine predictions.
-
-![](/Home_Utilities_Savings/Correlation%20Heatmap.png)
