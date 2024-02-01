@@ -5,7 +5,7 @@ Data Science / Analytics Projects
 
 ![](/Instagram%20Sentiment%20Analysis/Sentiment_Analysis_Photo.png)
 
-Embarked on a comprehensive sentiment analysis project leveraging a dataset comprising 474 rows of Instagram data. Focused on extracting valuable insights from comments and sentiments encapsulated within the "string_map_data.Comment.value" column.
+Embarked on this project with a desire to understand sentiment patterns in my own Instagram interactions. Leveraging natural language processing and machine learning, I analyzed 474 comments, implemented advanced data preprocessing, and identified an 84.8% accurate sentiment analysis model.
 
 **Key Accomplishments**:
 
@@ -30,7 +30,7 @@ Continuously refine and expand the model, exploring deep learning architectures 
 
 ![](/Home_Utilities_Savings/Correlation%20Heatmap.png)
 
-Led the comprehensive preprocessing and transformation of 18 months of home utilities data in SQL, laying the groundwork for subsequent in-depth analysis and future prediction in Python.
+Motivated by a desire to optimize resource management and reduce utility costs, this project delved into the intricate analysis of 18 months of my families' home utilities data. Leveraging SQL and Python, it explored trends, applied machine learning algorithms, and fine-tuned models to predict electricity and water usage, ultimately aiming for precision in utility consumption forecasting.
 
 **Key Accomplishments**:
 
