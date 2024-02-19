@@ -3,7 +3,7 @@ Data Science / Analytics Projects
 
 ## [Project 1: Spotify Insights](https://github.com/KrishKabi/KrishKabi.github.io/tree/main/Spotify_Insights)
 
-![](/Spotify_Insights/Streaming%20History.png)
+![](/Spotify_Insights/Spotify%20Picture.png)
 
 Analyzed my Spotify streaming history data to gain insights into my music listening habits and preferences over time.
 
