@@ -1,7 +1,30 @@
 # Project Portfolio
 Data Science / Analytics Projects
 
-## [Project 1: Spotify Insights](https://github.com/KrishKabi/KrishKabi.github.io/tree/main/Spotify_Insights)
+## [Project 1: Tesco Sales Dashboard](https://github.com/KrishKabi/KrishKabi.github.io/tree/main/Tesco_Sales_Dashboard_Power_BI)
+
+![](/Tesco_Sales_Dashboard_Power_BI/sales.jpg)
+
+Analyzed sample Tesco sales, performance, and customer data between 2011-2014
+
+**Key Insights**:
+
+* **Quarterly Trends**: Generally, as sales increased quarter by quarter, profit increased as well. Quarters where sales and profit are around the same or barely have any discrepancy indicate low marginal profits.
+
+* **Top Sales Categories**: Technology, Office Supplies, Furniture. Technology was highest selling category whereas Office Supplies was most profitable category.
+
+* **Top Sales by Country**: France, Germany, and UK.
+
+**Outcome**:
+Developed a comprehensive Power BI dashboard offering insights into my Tesco sample sales data.
+
+**Technologies Used**: 
+Power BI
+
+**Future Directions**:
+Consider incorporating more recent data to see sales and profit trends over time. Identify whether Tesco become more profitable over time, what seasons or economic events have impacted their sales, identify key customers, etc.
+
+## [Project 2: Spotify Insights](https://github.com/KrishKabi/KrishKabi.github.io/tree/main/Spotify_Insights)
 
 ![](/Spotify_Insights/Spotify%20Picture.png)
 
@@ -28,7 +51,7 @@ Power BI
 **Future Directions**:
 Consider incorporating sentiment analysis or genre classification for a more detailed understanding of my music preferences. Continuously update the dashboard with new data to track evolving trends and habits over time.
 
-## [Project 2: Instagram Sentiment Analysis](https://github.com/KrishKabi/KrishKabi.github.io/tree/main/Instagram%20Sentiment%20Analysis)
+## [Project 3: Instagram Sentiment Analysis](https://github.com/KrishKabi/KrishKabi.github.io/tree/main/Instagram%20Sentiment%20Analysis)
 
 ![](/Instagram%20Sentiment%20Analysis/Sentiment_Analysis_Photo.png)
 
@@ -53,7 +76,7 @@ Python (Pandas, Matplotlib, Seaborn, Scikit-learn, NLTK)
 **Future Directions**:
 Continuously refine and expand the model, exploring deep learning architectures and ensemble methods for improved accuracy and broader applicability. This project reflects a commitment to leveraging data science techniques for meaningful insights into social media analytics.
 
-## [Project 3: Home Utilities Savings](https://github.com/KrishKabi/KrishKabi.github.io/tree/main/Home_Utilities_Savings)
+## [Project 4: Home Utilities Savings](https://github.com/KrishKabi/KrishKabi.github.io/tree/main/Home_Utilities_Savings)
 
 ![](/Home_Utilities_Savings/Correlation%20Heatmap.png)
 
