@@ -3,7 +3,7 @@ Data Science / Analytics Projects
 
 ## [Project 1: Tesco Sales Dashboard](https://github.com/KrishKabi/KrishKabi.github.io/tree/main/Tesco_Sales_Dashboard_Power_BI)
 
-![](/Tesco_Sales_Dashboard_Power_BI/sales.jpg)
+![](/Tesco_Sales_Dashboard_Power_BI/tesco.jpg)
 
 Analyzed sample Tesco sales, performance, and customer data between 2011-2014
 
