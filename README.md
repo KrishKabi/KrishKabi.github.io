@@ -5,7 +5,7 @@ Data Science / Analytics Projects
 
 ![](/Email_Marketing_Campaign_Dashboard/email_marketing_dashboard.png)
 
-Streamlined a disorganized dataset into a clean dashboard, helping a small marketing firm reduce reporting time by 50%. Data between. Jan-Oct 2024
+Streamlined a disorganized dataset into a clean dashboard, helping a small marketing firm reduce reporting time by 50%. Data between Jan-Oct 2024.
 
 **Key Insights**:
 
