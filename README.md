@@ -1,7 +1,33 @@
 # Project Portfolio
 Data Science / Analytics Projects
 
-## [Project 1: Tesco Sales Dashboard](https://github.com/KrishKabi/KrishKabi.github.io/tree/main/Tesco_Sales_Dashboard_Power_BI)
+## [Project 1: Email Marketing Campaigns Dashboard](https://github.com/KrishKabi/KrishKabi.github.io/tree/main/Email_Marketing_Campaign_Dashboard)
+
+![](/Email_Marketing_Campaign_Dashboard/email_marketing_dashboard.png)
+
+Streamlined a disorganized dataset into a clean dashboard, helping a small marketing firm reduce reporting time by 50%. Data between. Jan-Oct 2024
+
+**Key Insights**:
+
+The total cost of all campaigns was **11,409,000**, resulting in:
+* **20,018 clicks** and **58,390 reads**, indicating an average **49.02% read rate**
+* **169,860 emails sent**, with **71.35% delivered** and **28.65% failed**
+
+March-July 2024 had the highest amount of reads and clicks whereas Feb recorded the lowest amount.
+
+**Outcome**:
+The campaign demonstrated reasonable success with a high delivery rate (>70%) and nearly half of the delivered emails being read. However, focusing on optimizing failed deliveries and improving the click-through rate (CTR) could further enhance campaign ROI.
+
+**Technologies Used**: 
+Excel for data analysis, visualization, and KPI calculation
+
+**Future Directions**:
+* Improve Delivery Rates: Investigate causes of email failures and enhance delivery strategies
+* Optimize Content: Conduct A/B testing on email content to boost click and read rates
+* Advanced Segmentation: Target specific customer segments based on performance insights for higher engagement
+* Automate Reporting: Build dynamic dashboards to provide real-time updates on campaign metrics
+
+## [Project 2: Tesco Sales Dashboard](https://github.com/KrishKabi/KrishKabi.github.io/tree/main/Tesco_Sales_Dashboard_Power_BI)
 
 ![](/Tesco_Sales_Dashboard_Power_BI/tesco.jpg)
 
@@ -23,32 +49,6 @@ Power BI
 
 **Future Directions**:
 Consider incorporating more recent data to see sales and profit trends over time. Identify whether Tesco become more profitable over time, what seasons or economic events have impacted their sales, identify key customers, etc.
-
-## [Project 2: Email Marketing Campaigns Dashboard](https://github.com/KrishKabi/KrishKabi.github.io/tree/main/Email_Marketing_Campaign_Dashboard)
-
-![](/Email_Marketing_Campaign_Dashboard/email_marketing_dashboard.png)
-
-Analyzed sample email marketing campaigns data between Jan-Oct 2024
-
-**Key Insights**:
-
-The total cost of all campaigns was **11,409,000**, resulting in:
-* **20,018 clicks** and **58,390 reads**, indicating an average **49.02% read rate**
-* **169,860 emails sent**, with **71.35% delivered** and **28.65% failed**
-
-March-July 2024 had the highest amount of reads and clicks whereas Feb recorded the lowest amount.
-
-**Outcome**:
-The campaign demonstrated reasonable success with a high delivery rate (>70%) and nearly half of the delivered emails being read. However, focusing on optimizing failed deliveries and improving the click-through rate (CTR) could further enhance campaign ROI.
-
-**Technologies Used**: 
-Excel for data analysis, visualization, and KPI calculation
-
-**Future Directions**:
-* Improve Delivery Rates: Investigate causes of email failures and enhance delivery strategies
-* Optimize Content: Conduct A/B testing on email content to boost click and read rates
-* Advanced Segmentation: Target specific customer segments based on performance insights for higher engagement
-* Automate Reporting: Build dynamic dashboards to provide real-time updates on campaign metrics
 
 ## [Project 3: Spotify Insights](https://github.com/KrishKabi/KrishKabi.github.io/tree/main/Spotify_Insights)
 
