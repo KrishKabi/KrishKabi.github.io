@@ -1,5 +1,5 @@
 # Project Portfolio
-Data Science / Analytics Projects
+Data Analytics / Science Projects
 
 ## [Project 1: Email Marketing Campaigns Dashboard](https://github.com/KrishKabi/KrishKabi.github.io/tree/main/Email_Marketing_Campaign_Dashboard)
 
