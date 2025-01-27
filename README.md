@@ -9,7 +9,7 @@ Analyzed sample Tesco sales, performance, and customer data between 2011-2014
 
 **Key Insights**:
 
-* **Quarterly Trends**: Generally, as sales increased quarter by quarter, profit increased as well. Quarters where sales and profit are around the same or barely have any discrepancy indicate low marginal profits.
+* **Quarterly Trends**: Generally, as sales increased quarter by quarter, profit increased as well. Quarters where sales and profit are around the same or barely have any discrepancy indicate low marginal profits. Sales and profits peaked in 2014 Quarter 3 with ~250K and ~26K in sales and profits, respectively.
 
 * **Top Sales Categories**: Technology, Office Supplies, Furniture. Technology was highest selling category whereas Office Supplies was most profitable category.
 
